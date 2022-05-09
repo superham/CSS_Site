@@ -1,0 +1,66 @@
+div
+{
+  width: 200px;
+  height: 200px;
+  background-color: #E9D5DA;
+}
+
+body
+{
+  margin: 0px;
+  text-align: center;
+}
+
+h1
+{
+  /*width: 10%;
+  margin: 0 auto 0 auto;
+  */
+  margin-top: 0px;
+}
+
+.top
+{
+  background-color: #E9D5DA;
+  width:auto;
+  height: auto;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle
+{
+  background-color: blue;
+  border: solid 20px;
+  position: relative;
+  left: 200px;
+  top:100px;
+  /*right: 1000px;*/
+}
+
+.bottom
+{
+  background: green;
+  margin-left: 400px;
+  border: solid 10px;
+  border-color: black;
+}
+
+.eng
+{
+  text-decoration: underline;
+}
+
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
